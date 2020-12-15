@@ -8,9 +8,14 @@
         android:layout_width="300dp"
         android:layout_height="300dp"/>
  java:
+ 
      //设置各门得分
     public void setmData(List<Double> mData) {
         this.mData = mData;
         postInvalidate();
     }
+    
+    目前只支持四个维度的自定义视图
+
+ 
         
