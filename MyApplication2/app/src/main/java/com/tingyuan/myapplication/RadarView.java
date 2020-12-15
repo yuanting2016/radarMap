@@ -85,10 +85,10 @@ public class RadarView extends View {
         mValuePaint.setStyle(Paint.Style.FILL);
 
         mTitles = new ArrayList<>();
-        mTitles.add("准确度");
-        mTitles.add("流畅度");
-        mTitles.add("标准度");
-        mTitles.add("完整度");
+        mTitles.add("性格");
+        mTitles.add("气质");
+        mTitles.add("外貌");
+        mTitles.add("学历");
         mCount = mTitles.size();
 
         //默认分数
