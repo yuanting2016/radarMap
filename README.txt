@@ -1,4 +1,5 @@
-radarMap   目前只支持四个维度的自定义视图
+一个小的自定义控件。类似雷达图控件
+目前只支持四个维度的自定义视图
  a user-defined radar map
  
 xml:
